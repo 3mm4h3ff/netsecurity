@@ -1,8 +1,8 @@
-#  Network Security Open Notes Exam 01 - 31st March 2020
-## When in doubt, `tab` it out!!
-## Note `> command` is to disguise the previous command not necessarily the cisco enable etc.
-## Note `*` means optional to the command.
-## Note also not all commands are in order, some double up.
+##  Network Security Open Notes Exam 01 - 31st March 2020
+#### When in doubt, `tab` it out!!
+#### Note `> command` is to disguise the previous command not necessarily the cisco enable etc.
+#### Note `*` means optional to the command.
+#### Note also not all commands are in order, some double up.
 
 ### Configure IP ACLs to Mitigate Attacks:
 
